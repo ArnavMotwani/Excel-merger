@@ -1,6 +1,6 @@
 # ReadMe.md
 ## Description
-This is a simple script the merges multiple excel files (xlsx files). It takes the column names from one file and ignores the column names for the rest of the files.
+This is a simple script the merges multiple excel files (xlsx files) and has no limit on how big the excel file is. It takes the column names from one file and ignores the column names for the rest of the files. It then outputs one merged excel file.
 
 ## Installation
 Clone this directory anywhere onto your machine
